@@ -1,2 +1,3 @@
-This is my HTML project.
-it contains a basic structure, web pages, and a portfolio.
+This is my first HTML project.
+
+It contains a basic structure, web pages, and a portfolio.
